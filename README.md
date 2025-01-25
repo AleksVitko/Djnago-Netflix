@@ -18,7 +18,7 @@ This project is built with :
 ## Installation 📦
 ### To install Netflix, follow these steps:
 ## 1. Clone this repository:
->'https://github.com/BurhanMohammad/Djnago-Netflix.git'
+>'https://github.com/AleksVitko/Djnago-Netflix.git'
 ## 2. Navigate to the project directory:
 
 ```bash
@@ -85,10 +85,6 @@ To view details about a title, click on the title's poster image. From there, yo
 #### Step 3
 
 - 🔃 Create a new pull request.
-## Creadits :
-
-#### Django Netflix was created by Mohammad Burhan
-
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
